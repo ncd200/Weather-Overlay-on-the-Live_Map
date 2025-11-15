@@ -466,7 +466,7 @@
                 console.log('[LiveMap] attachWeatherToMap called, map:', map);
 
                 // 👉 PUT YOUR REAL OWM API KEY HERE
-                var OWM_API_KEY = "18eac56545dcd30c4fc9b5169f346e70";
+                var OWM_API_KEY = "YOUR_OPENWEATHERMAP_API_KEY_HERE";
 
                 if (!OWM_API_KEY || OWM_API_KEY === "YOUR_OPENWEATHERMAP_API_KEY_HERE") {
                     console.warn('[LiveMap] OWM API key not set; skipping overlays');

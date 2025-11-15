@@ -90,7 +90,7 @@ Go to API Keys and copy your key.
 
 Open live_map.blade.php in a text editor and find:
 
-var OWM_API_KEY = "YOUR_OPENWEATHERMAP_API_KEY_HERE";
+var OWM_API_KEY = "YOUR_OPENWEATHERMAP_API_KEY_HERE"; probably around line 469
 
 
 Replace it with your key, for example:
